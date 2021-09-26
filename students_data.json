@@ -1,0 +1,48 @@
+{
+    "students": [
+        {
+            "name": "Moshiur Rahman",
+            "middleName": null,
+            "age": 25,
+            "cgpa": 3.58,
+            "isRegister": true,
+            "language": [
+                "bangla",
+                "english",
+                "arabic"
+            ],
+            "friends": [
+                {
+                    "name": "Sohan",
+                    "age": 25
+                },
+                {
+                    "name": "Imran",
+                    "age": 23
+                }
+            ]
+        },
+        {
+            "name": "Jafid",
+            "middleName": null,
+            "age": 27,
+            "cgpa": 3.8,
+            "isRegister": true,
+            "language": [
+                "urdu",
+                "farsi",
+                "arabic"
+            ],
+            "friends": [
+                {
+                    "name": "kamal",
+                    "age": 24
+                },
+                {
+                    "name": "halim",
+                    "age": 27
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "friends": [
+        {
+            "name": "Afnan",
+            "age": 26
+        },
+        {
+            "name": "Toky",
+            "age": 27
+        }
+    ]
+}
+/*
+
+https://codebeautify.org/jsonviewer
+
+   https://jsonpathfinder.com
+
+   https://jsonplaceholder.typicode.com 
+
+   https://www.jsonschemavalidator.net/
+
+   https://www.liquid-technologies.com/online-json-to-schema-converter
+
+*/
